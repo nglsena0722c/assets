@@ -33,6 +33,6 @@ assets
 
 ## Example
 ```
-http://assets.xpla.io/chains.json
-http://assets.xpla.io/icon/svg/XPLA.svg
+https://assets.xpla.io/chains.json
+https://assets.xpla.io/icon/svg/XPLA.svg
 ```
